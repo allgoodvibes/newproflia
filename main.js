@@ -35,7 +35,7 @@ const handleSkill=()=>{
     };
 
 const whatsappclic=()=>{
-    window.open("https://api.whatsapp.com/send?phone=085959218454")
+    window.open("https://api.whatsapp.com/send?phone=6285959218454")
     }
 const gmailclic=()=>{
     window.open("mailto:nafitriaulia@example.com?Subject=I%2Want%2You")
@@ -44,7 +44,7 @@ const linkedclic=()=>{
     window.open("https://www.linkedin.com/in/nafitri-aulia-595893119/")
     }
 const whatsappclic1=()=>{
-    window.open("https://api.whatsapp.com/send?phone=085959218454")
+    window.open("https://api.whatsapp.com/send?phone=6285959218454")
     }
 const gmailclic1=()=>{
     window.open("mailto:nafitriaulia@example.com?Subject=I%2Want%2You")
